@@ -1,5 +1,5 @@
 # Deep RL Arm Manipulation
-![robot_arm](/images/Pt_2_Video_WM.mov)
+![robot_arm](/images/Pt_2_Video.mov)
 
 Welcome to the Deep RL Arm Manipulation project! For this project, your goal is to create a DQN agent and define reward functions to teach a robotic arm to carry out two primary objectives:
 
